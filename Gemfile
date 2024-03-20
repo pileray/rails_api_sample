@@ -59,3 +59,13 @@ group :development do
   # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
   # gem "spring"
 end
+
+gem 'bcrypt'
+gem 'factory_bot_rails'
+gem 'faker'
+gem 'jb'
+gem 'jwt'
+gem 'kaminari'
+gem 'ridgepole'
+gem 'rspec-rails'
+gem 'rubocop-rails', require: false
